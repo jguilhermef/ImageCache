@@ -1,6 +1,5 @@
 //
 //  ImageCache.swift
-//  DesafioiOS
 //
 //  Created by José Guilherme de Lima Freitas on 21/07/2018.
 //  Copyright © 2018 JG. All rights reserved.
